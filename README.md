@@ -1,5 +1,4 @@
-El Desafío: Murkify
-
+Proyecto
 
 El objetivo de este documento es explicar cuál es el objetivo de desarrollar el proyecto Murkify
 
@@ -10,10 +9,3 @@ Backend: Node.js, Express.js.
 Base de Datos: MongoDB.
 Autenticación: JSON Web Tokens (JWT).
 Herramientas Adicionales: Docker, Jest (o similar) para pruebas, GitHub.
-
-Etapas del Desafío
-Etapa 1: Preparación y Backend Básico
-Etapa 2: Autenticación y Usuarios
-Etapa 3: Consumo de la API de Spotify y Estructura de la Aplicación
-Etapa 4: Refactorización, Pruebas y Despliegue
-

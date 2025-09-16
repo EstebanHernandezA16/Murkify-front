@@ -1,12 +1,19 @@
-# React + Vite
+El Desafío: Murkify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+El objetivo de este documento es explicar cuál es el objetivo de desarrollar el proyecto Murkify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Objetivo: Desarrollar una aplicación web de música (estilo Spotify) llamada Murkify que gestione usuarios, sesiones y visualización de contenido musical.
+Tecnologías a utilizar:
+Frontend: React, Tailwind CSS, Formik.
+Backend: Node.js, Express.js.
+Base de Datos: MongoDB.
+Autenticación: JSON Web Tokens (JWT).
+Herramientas Adicionales: Docker, Jest (o similar) para pruebas, GitHub.
 
-## Expanding the ESLint configuration
+Etapas del Desafío
+Etapa 1: Preparación y Backend Básico
+Etapa 2: Autenticación y Usuarios
+Etapa 3: Consumo de la API de Spotify y Estructura de la Aplicación
+Etapa 4: Refactorización, Pruebas y Despliegue
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
